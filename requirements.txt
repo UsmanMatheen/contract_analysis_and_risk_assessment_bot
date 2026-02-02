@@ -1,0 +1,36 @@
+# Core Framework
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# Document Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+python-docx==1.1.0
+chardet==5.2.0
+
+# NLP Processing
+spacy==3.7.2
+nltk==3.8.1
+langdetect==1.0.9
+
+# LLM Integration
+openai==1.12.0
+anthropic==0.18.1
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# PDF Generation
+reportlab==4.0.9
+weasyprint==60.2
+
+# Utilities
+pydantic==2.5.3
+pydantic-settings==2.1.0
+jsonschema==4.20.0
+python-dateutil==2.8.2
+
+# Security & Logging
+cryptography==42.0.2
+loguru==0.7.2

@@ -1,0 +1,13 @@
+{
+  "title": "Non-Disclosure Agreement (NDA)",
+  "description": "Mutual non-disclosure agreement",
+  "category": "Confidentiality",
+  "variables": [
+    "PARTY1_NAME",
+    "PARTY2_NAME",
+    "PURPOSE",
+    "DURATION",
+    "DATE"
+  ],
+  "content": "NON-DISCLOSURE AGREEMENT\n\nThis Non-Disclosure Agreement (\"Agreement\") is made on [DATE] between:\n\n[PARTY1_NAME] (\"Disclosing Party\")\nAND\n[PARTY2_NAME] (\"Receiving Party\")\n\n1. PURPOSE\nThe parties wish to explore [PURPOSE] and will share confidential information.\n\n2. CONFIDENTIAL INFORMATION\nIncludes all technical, business, and financial information disclosed by either party.\n\n3. OBLIGATIONS\n3.1 The Receiving Party shall maintain confidentiality and not disclose to third parties.\n3.2 Information shall be used solely for the stated purpose.\n3.3 Reasonable measures shall be taken to protect confidential information.\n\n4. EXCLUSIONS\nThis Agreement does not apply to information that:\na) Is publicly available\nb) Was known before disclosure\nc) Is independently developed\nd) Is required to be disclosed by law\n\n5. TERM\nThis Agreement shall remain in effect for [DURATION] years from the date of signing.\n\n6. RETURN OF INFORMATION\nUpon request, all confidential materials shall be returned or destroyed.\n\n7. GOVERNING LAW\nThis Agreement is governed by the laws of India.\n\n_____________________          _____________________\n[PARTY1_NAME]                  [PARTY2_NAME]\n"
+}

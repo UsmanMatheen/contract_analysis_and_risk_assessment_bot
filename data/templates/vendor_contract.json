@@ -1,0 +1,15 @@
+{
+  "title": "Vendor Contract",
+  "description": "Purchase and supply agreement",
+  "category": "Procurement",
+  "variables": [
+    "BUYER_NAME",
+    "VENDOR_NAME",
+    "PRODUCTS",
+    "QUANTITY",
+    "PRICE",
+    "DELIVERY_DATE",
+    "PAYMENT_TERMS"
+  ],
+  "content": "VENDOR SUPPLY AGREEMENT\n\nAgreement dated [DELIVERY_DATE] between:\n\n[BUYER_NAME] (\"Buyer\")\nAND\n[VENDOR_NAME] (\"Vendor\")\n\n1. PRODUCTS\nThe Vendor shall supply: [PRODUCTS]\nQuantity: [QUANTITY]\n\n2. PRICE\nTotal Price: INR [PRICE]\nPayment Terms: [PAYMENT_TERMS]\n\n3. DELIVERY\nDelivery Date: [DELIVERY_DATE]\nDelivery Location: As specified by Buyer\n\n4. QUALITY STANDARDS\nProducts shall meet specified quality standards and be fit for purpose.\n\n5. INSPECTION AND ACCEPTANCE\nBuyer may inspect within 7 days. Defective products shall be replaced at Vendor's cost.\n\n6. WARRANTY\nVendor warrants products are free from defects for 90 days from delivery.\n\n7. LIABILITY\nVendor liable for defective products. Liability capped at contract value.\n\n8. TERMINATION\nEither party may terminate for material breach with 15 days notice.\n\n9. FORCE MAJEURE\nNeither party liable for delays due to force majeure events.\n\n10. DISPUTE RESOLUTION\nDisputes resolved through arbitration in India.\n\n_____________________          _____________________\n[BUYER_NAME]                   [VENDOR_NAME]\n"
+}

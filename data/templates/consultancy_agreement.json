@@ -1,0 +1,15 @@
+{
+  "title": "Consultancy Agreement",
+  "description": "Independent consultant engagement agreement",
+  "category": "Consultancy",
+  "variables": [
+    "COMPANY_NAME",
+    "CONSULTANT_NAME",
+    "SCOPE",
+    "FEES",
+    "START_DATE",
+    "END_DATE",
+    "PAYMENT_SCHEDULE"
+  ],
+  "content": "CONSULTANCY AGREEMENT\n\nAgreement made on [START_DATE] between:\n\n[COMPANY_NAME] (\"Company\")\nAND\n[CONSULTANT_NAME] (\"Consultant\")\n\n1. SCOPE OF WORK\nThe Consultant shall provide the following services: [SCOPE]\n\n2. TERM\nFrom [START_DATE] to [END_DATE], renewable by mutual agreement.\n\n3. COMPENSATION\n3.1 Fees: INR [FEES]\n3.2 Payment Schedule: [PAYMENT_SCHEDULE]\n3.3 Reimbursement of pre-approved expenses with receipts.\n\n4. INDEPENDENT CONTRACTOR\nThe Consultant is an independent contractor, not an employee.\n\n5. DELIVERABLES AND TIMELINE\nThe Consultant shall deliver work as per agreed timeline and quality standards.\n\n6. CONFIDENTIALITY\nAll company information shall be kept confidential.\n\n7. INTELLECTUAL PROPERTY\nWork products shall belong to the Company unless otherwise agreed.\n\n8. TERMINATION\nEither party may terminate with 15 days notice.\n\n9. INDEMNIFICATION\nEach party indemnifies the other for breaches of their obligations.\n\n10. GOVERNING LAW\nThis Agreement is governed by Indian law.\n\n_____________________          _____________________\n[COMPANY_NAME]                 [CONSULTANT_NAME]\n"
+}

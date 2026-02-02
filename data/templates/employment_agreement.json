@@ -1,0 +1,15 @@
+{
+  "title": "Employment Agreement",
+  "description": "Standard employment agreement for Indian companies",
+  "category": "Employment",
+  "variables": [
+    "COMPANY_NAME",
+    "EMPLOYEE_NAME",
+    "POSITION",
+    "START_DATE",
+    "SALARY",
+    "LOCATION",
+    "NOTICE_PERIOD"
+  ],
+  "content": "EMPLOYMENT AGREEMENT\n\nThis Employment Agreement (\"Agreement\") is entered into on [START_DATE] between:\n\n[COMPANY_NAME], a company registered under the Companies Act, 2013 (\"Employer\")\nAND\n[EMPLOYEE_NAME], residing at [LOCATION] (\"Employee\")\n\n1. POSITION AND DUTIES\nThe Employee is appointed as [POSITION] and shall perform duties as reasonably assigned by the Employer.\n\n2. COMPENSATION\nThe Employee shall receive a gross salary of INR [SALARY] per annum, payable monthly on the last working day of each month.\n\n3. TERM AND TERMINATION\n3.1 This Agreement shall commence on [START_DATE] and continue until terminated by either party.\n3.2 Either party may terminate with [NOTICE_PERIOD] days written notice.\n3.3 The Employer may terminate immediately for cause including misconduct or breach of duties.\n\n4. WORKING HOURS\nThe Employee shall work standard business hours with flexibility as required by the position.\n\n5. LEAVE ENTITLEMENT\nThe Employee is entitled to leave as per company policy and applicable labor laws.\n\n6. CONFIDENTIALITY\nThe Employee shall maintain confidentiality of all proprietary information during and after employment.\n\n7. INTELLECTUAL PROPERTY\nAll work products created during employment shall be the property of the Employer.\n\n8. NON-COMPETE\nThe Employee agrees not to engage in competing business for [6] months post-termination within [50] km radius.\n\n9. GOVERNING LAW\nThis Agreement shall be governed by the laws of India. Disputes shall be resolved through arbitration in [LOCATION].\n\nIN WITNESS WHEREOF, the parties have executed this Agreement.\n\n_____________________          _____________________\n[COMPANY_NAME]                 [EMPLOYEE_NAME]\nAuthorized Signatory           Employee\n\nDate: [START_DATE]\n"
+}

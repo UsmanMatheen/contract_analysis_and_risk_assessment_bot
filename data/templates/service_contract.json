@@ -1,0 +1,15 @@
+{
+  "title": "Service Contract",
+  "description": "General service agreement for service providers",
+  "category": "Services",
+  "variables": [
+    "CLIENT_NAME",
+    "SERVICE_PROVIDER_NAME",
+    "SERVICE_DESCRIPTION",
+    "CONTRACT_VALUE",
+    "START_DATE",
+    "END_DATE",
+    "PAYMENT_TERMS"
+  ],
+  "content": "SERVICE AGREEMENT\n\nThis Service Agreement (\"Agreement\") is made on [START_DATE] between:\n\n[CLIENT_NAME] (\"Client\")\nAND\n[SERVICE_PROVIDER_NAME] (\"Service Provider\")\n\n1. SERVICES\nThe Service Provider shall provide the following services: [SERVICE_DESCRIPTION]\n\n2. TERM\nThis Agreement shall be effective from [START_DATE] to [END_DATE].\n\n3. COMPENSATION\n3.1 The Client shall pay INR [CONTRACT_VALUE] for the services.\n3.2 Payment terms: [PAYMENT_TERMS]\n\n4. DELIVERABLES\nThe Service Provider shall deliver all agreed deliverables within the specified timelines.\n\n5. TERMINATION\nEither party may terminate with 30 days written notice. Early termination requires payment for work completed.\n\n6. CONFIDENTIALITY\nBoth parties shall maintain confidentiality of proprietary information.\n\n7. LIMITATION OF LIABILITY\nLiability is limited to the contract value. Neither party liable for consequential damages.\n\n8. DISPUTE RESOLUTION\nDisputes shall be resolved through arbitration under Indian Arbitration and Conciliation Act, 1996.\n\nIN WITNESS WHEREOF:\n\n_____________________          _____________________\n[CLIENT_NAME]                  [SERVICE_PROVIDER_NAME]\n"
+}
