@@ -93,11 +93,12 @@ class Settings(BaseSettings):
             return [ext.strip() for ext in v.split(",")]
         return v
     
-    model_config = {
-        "env_file": ".env",
-        "env_file_encoding": "utf-8",
-        "case_sensitive": True
-    }
+    class Config:
+        """Pydantic configuration."""
+        env_file = ".env"
+        env_file_encoding = "utf-8"
+        case_sensitive = True
+        extra = "ignore"
     
     def create_directories(self):
         """Create required directories if they don't exist."""
