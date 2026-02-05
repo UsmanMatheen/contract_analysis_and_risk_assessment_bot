@@ -3,7 +3,7 @@
 import os
 from pathlib import Path
 from typing import Literal
-from pydantic_settings import BaseSettings, SettingsConfigDict
+from pydantic_settings import BaseSettings
 from pydantic import Field, field_validator
 
 
@@ -93,11 +93,11 @@ class Settings(BaseSettings):
             return [ext.strip() for ext in v.split(",")]
         return v
     
-    model_config = SettingsConfigDict(
-        env_file=".env",
-        env_file_encoding="utf-8",
-        case_sensitive=True
-    )
+    model_config = {
+        "env_file": ".env",
+        "env_file_encoding": "utf-8",
+        "case_sensitive": True
+    }
     
     def create_directories(self):
         """Create required directories if they don't exist."""
